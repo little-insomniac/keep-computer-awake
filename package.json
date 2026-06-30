@@ -1,0 +1,26 @@
+{
+  "name": "little-insomniac-keep-computer-awake",
+  "version": "1.0.0",
+  "description": "Keep Computer Awake keeps your computer awake and prevents sleep, screen lock, and screensavers",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "keep-awake",
+    "prevent-sleep",
+    "anti-sleep",
+    "caffeinate",
+    "screen-lock",
+    "desktop-app",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Little Insomniac",
+  "license": "ISC",
+  "homepage": "https://littleinsomniac.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/little-insomniac/keep-computer-awake.git"
+  }
+}
